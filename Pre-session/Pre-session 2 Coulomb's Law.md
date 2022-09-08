@@ -8,4 +8,16 @@ Two charged objects, of charge q1 and q2, separated by a distance r, exert a for
 
 where k is a constant:
 
-k = 8.99*10^9 N m^2/C^2
+<img src="Pre-session 2 Coulomb's Law.assets/Screen Shot 2022-09-07 at 21.16.png"/>
+
+Note that Coulomb's law has the same form as the gravitational force between objects that interact because they both have mass.
+
+One big difference between the force between charged objects and a gravitational interaction is that the gravitational force is always **attractive**.
+
+### Example - Inside the hydrogen atom
+
+Determine the ratio of the magnitude of the electrostatic force to the magnitude of the gravitational force between the proton and electron.
+
+Note that we don't need to know the value of r, the distance between the electron and the proton, because it cancels out in the ratio.
+
+<img src="Pre-session 2 Coulomb's Law.assets/grav_elec_ratio.png"/>
