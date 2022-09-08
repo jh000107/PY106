@@ -4,7 +4,7 @@
 
 Two charged objects, of charge q1 and q2, separated by a distance r, exert a force on one another. The magnitude of this force is given by:
 
-![Coulomb's Law](Pre-session 2 Coulomb's Law.assets/Coulombs_Law_Diagram.png)
+![img](Pre-session 2 Coulomb's Law.assets/Coulombs_Law_Diagram.png)
 
 where k is a constant:
 
