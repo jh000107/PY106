@@ -4,6 +4,8 @@
 
 There are many parallels between electrostatic situations and gravitational situations. A field is something that has a magnitude and direction at all points in space.
 
+The electric field E at a particular point can be defined in terms of the electric force, Fe, that an object of charge q would experience if it were placed at that point.
+
 <img src="Pre-session 3 Electric Field.assets/electric_field.png">
 
 E = Electric Field
@@ -12,7 +14,9 @@ Fe = Electric Force
 
 q = charge
 
-**Magnitude of the field from a point charge: E = kq / r^2**
+**Magnitude of the field from a point charge: **
+
+<img src="Pre-session 3 Electric Field.assets/E_point_charge.png">
 
 where r is the distance from the charge to the point in space where we are finding the field. The electric field points away from a positive charge and toward a negative charge.
 
@@ -37,3 +41,7 @@ The arrow shows the direction of the electric field at all points along the fiel
 Secondly, using field vectors.
 
 The basic idea is similar to that of using field lines. The difference is that the relative strength of the field is indicated by the darkness of the arrow.
+
+## A Test Charge
+
+Based on the relationship Fe = qE, the force on a positive test charge is in the direction of the electric field at the point where the test charge is, and the size of the force is proportional to the magnitude of the field at that point
