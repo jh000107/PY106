@@ -97,3 +97,18 @@ At equilibrium, the conduction electrons in a conductor move about randomly, som
 2. The electric field at the surface of the conductor is perpendicular to the surface.
 3. If the conductor is charged, excess charge lies only at the surface of the conductor.
 4. Charge density is highest, and electric field is strongest, on pointy parts of a conductor.
+
+### At equilibrium, E = 0 within solid parts of a conductor
+
+Because F = qE, and electrons are negative, electrons feel a force that is opposite to the field. The field lines end at the electrons at the surface, so E=0 within the conductor. This redistribution of electrons leaves positive charge at the other side of the conductor, so field lines start up again there and go away from the conductor.<img src="Pre-session 3 Electric Field.assets/uniform1.png">
+
+### At equilibrium, electric field lines are perpendicular to the surface of a conductor.
+
+If the electric field lines end at the surface of a conductor but are not perpendicular to the surface, the charges at the surface feel a force from the field. The component of the force parallel to the surface causes the charges to flow along the surface, carrying the field lines with them. The charges are in equilibrium when the electric field lines are perpendicular to the surface, as in figure (c).<img src="Pre-session 3 Electric Field.assets/uniform2.png">
+
+### At equilibrium, any excess charge lies only at the surface of a conductor.
+
+If there was excess charge in the bulk of the conductor field lines would either start there, if it was positive, or end there, if it was negative. This non-zero field inside the conductor would cause the charge to move to the surface to bring the field to zero within the conductor.
+
+### Charge tends to accumulate on pointy parts of a conductor.
+
