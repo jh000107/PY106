@@ -22,7 +22,7 @@ Moving the object up, when the electric force is down, increases the electric po
 
 One important difference between a gravitational field and an electric field is that mass can only be positive, but charge can be positive or negative.
 
-WHen we released a ball of mass m from rest in a uniform gravitational field g, we found that the speed the ball would have after traveling a distance h was:
+When we released a ball of mass m from rest in a uniform gravitational field g, we found that the speed the ball would have after traveling a distance h was:
 
 <img src="Pre-session 4 Electric Potential Energy.assets/velocity.png">
 
