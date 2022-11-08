@@ -30,7 +30,7 @@ Figure (a) represents a uniform electric field directed down.
 
 Figure (b) represents the electric field near a negative point charge.
 
-Figure (c) represents the field from an electric dipole, which consits of two objects with equal-and-opposite charge.
+Figure (c) represents the field from an electric dipole, which consists of two objects with equal-and-opposite charge.
 
 The arrow shows the direction of the electric field at all points along the field line and the relative strength of the field is indicated by the density of the field lines.
 
